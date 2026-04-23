@@ -1,0 +1,10 @@
+target/
+CLAUDE.md
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.factorypath
+/bin/
+/actuator-client-test-app/logs/
